@@ -64,7 +64,7 @@ const Prevention = () => {
 
 const styles = StyleSheet.create({
   container: {
-    marginVertical: spacing[6],
+    marginVertical: spacing[8],
     paddingHorizontal: spacing[5],
   },
   cardWrapper: {

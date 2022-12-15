@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     backgroundColor: colors.white,
     paddingVertical: spacing[2],
-    paddingHorizontal: spacing[4],
+    paddingHorizontal: spacing[3],
     borderRadius: spacing[8],
   },
 });
